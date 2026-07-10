@@ -81,6 +81,22 @@ export default function AboutPage() {
               Department of Textile, Fibre, Fashion and Jewelry Studies
             </p>
 
+            <h2 className="text-xs uppercase tracking-wider text-accent mb-6">Press</h2>
+            <div className="mb-8">
+              <a
+                href="https://tribune.com.pk/story/2617386/material-truth-and-civic-canvas-new-sovereign-of-contemporary-art"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-serif text-lg hover:text-accent transition-colors"
+              >
+                Material truth and civic canvas: new sovereign of contemporary art
+              </a>
+              <p className="text-[15px] text-foreground/85 mt-1">
+                The Express Tribune, on Myra: Inner Sanctuary and BNU&rsquo;s emerging generation of
+                visual artists reclaiming safe havens from societal pressures.
+              </p>
+            </div>
+
             <h2 className="text-xs uppercase tracking-wider text-accent mb-6">Workshops</h2>
             <ul className="space-y-2 text-[15px] text-foreground/85">
               {workshops.map((w) => (

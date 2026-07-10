@@ -44,9 +44,9 @@ const galleryImages = [
   { src: "/images/thesis/04-journal-text-detail.jpg", alt: "Handwritten cursive journal text in pink ink on an iridescent surface" },
   { src: "/images/thesis/12-shell-scale-texture-detail.jpg", alt: "Close detail of the laser-cut, iridescent oyster-shell exterior" },
   { src: "/images/thesis/05-smocked-interior-detail.jpg", alt: "Detail of the smocked interior textile in soft pink and grey tones" },
-  { src: "/images/thesis/06-exterior-interior-transition-a.jpg", alt: "Close detail where the exterior shell scales meet the interior mirrored mosaic" },
+  { src: "/images/thesis/06-exterior-interior-transition-wide.jpg", alt: "Wide view of the exterior shell wall opening into the mirrored mosaic interior, with track lighting overhead" },
   { src: "/images/thesis/11-exterior-interior-transition-b.jpg", alt: "Alternate view of the exterior-to-interior transition, shell scales into draped fabric" },
-  { src: "/images/thesis/08-draped-fabric-detail.jpg", alt: "Detail of the draped iridescent interior fabric" },
+  { src: "/images/thesis/08-interior-corner-floor-detail.jpg", alt: "Interior corner detail with draped fabric, mirrored mosaic, and the lit sensory floor below" },
   { src: "/images/thesis/09-draped-fabric-mosaic-detail.jpg", alt: "Detail of draped fabric against the mirrored mosaic wall" },
   { src: "/images/thesis/07-sensory-floor-detail.jpg", alt: "Close detail of the sensory floor, pearls and crushed glass among oyster shells" },
 ];
@@ -60,7 +60,7 @@ export default function ThesisPage() {
         description="An installation transforming imagination as a coping mechanism into a physical safe space — inspired by the formation of a pearl within an oyster."
       />
 
-      <div className="max-w-6xl px-6 pb-14">
+      <div className="max-w-6xl px-6 pb-14 flex flex-wrap gap-4">
         <a
           href="/documents/amal-khan-thesis-presentation.pdf"
           target="_blank"
@@ -68,6 +68,14 @@ export default function ThesisPage() {
           className="inline-block text-xs uppercase tracking-wider border border-foreground px-6 py-3 hover:bg-foreground hover:text-background transition-colors"
         >
           View full presentation (PDF)
+        </a>
+        <a
+          href="/documents/amal-khan-thesis-book.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block text-xs uppercase tracking-wider border border-foreground px-6 py-3 hover:bg-foreground hover:text-background transition-colors"
+        >
+          View full documentation (PDF)
         </a>
       </div>
 

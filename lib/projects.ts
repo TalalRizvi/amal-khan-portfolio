@@ -148,11 +148,8 @@ export const projects: Project[] = [
       "Hand-sketched flora and fauna motifs, screen printed onto fabric and developed into a garment. Inspiration boards referenced St. Patrick's Cathedral and microorganisms, resolved into eight sample repeats screen-printed on different fabrics, plus a coloured felt piece finished with embroidery.",
     ],
     images: [
-      { src: "/images/work/designing-nature-inspired/04-final-garment.jpg", alt: "Screen-printed gown on a mannequin in front of the project's research and sample boards" },
-      { src: "/images/work/designing-nature-inspired/01-motif-repeat.jpg", alt: "Hand-sketched floral motif developed into a mirrored repeat pattern" },
       { src: "/images/work/designing-nature-inspired/02-garment.jpg", alt: "Final garment in gold and pink brocade-look fabric with a stack of coloured fabric swatches" },
-      { src: "/images/work/designing-nature-inspired/03-screen-printed-detail.jpg", alt: "Screen-printed floral repeat pattern on pink fabric, styled on a mannequin" },
-      { src: "/images/work/designing-nature-inspired/05-coloured-felt.jpg", alt: "Coloured felt piece with hand embroidery in purple, red, and green" },
+      { src: "/images/work/designing-nature-inspired/01-motif-repeat.jpg", alt: "Hand-sketched floral motif developed into a mirrored repeat pattern" },
       { src: "/images/work/designing-nature-inspired/06-motif-repeat-lines.jpg", alt: "Hand-drawn floral motif repeat, line-drawing study" },
       { src: "/images/work/designing-nature-inspired/07-motif-repeat-tiled.jpg", alt: "Floral motif resolved into a tiled repeat pattern" },
       { src: "/images/work/designing-nature-inspired/08-garment-on-hook.jpg", alt: "Screen-printed garment hanging on display, with fabric swatches below" },
@@ -194,6 +191,8 @@ export const projects: Project[] = [
     images: [
       { src: "/images/work/news-extraction/01-artwork.jpg", alt: "Illustrated design referencing a trending news story, in a decorative tarot-inspired border" },
       { src: "/images/work/news-extraction/02-fabrication.jpg", alt: "Final quilted and appliqued textile piece based on the illustrated design" },
+      { src: "/images/work/news-extraction/03-quilted-piece-full-display.jpg", alt: "Finished quilted textile piece displayed on the wall alongside the print mockup and colour study" },
+      { src: "/images/work/news-extraction/04-design-study-painting.jpg", alt: "Painted design study for the piece, showing the full illustration before textile fabrication" },
     ],
   },
   {

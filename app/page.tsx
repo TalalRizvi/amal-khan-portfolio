@@ -100,8 +100,8 @@ export default function Home() {
                 href={`/case-studies/${p.slug}`}
                 title={p.title}
                 hook={p.hook}
-                image={p.images[p.images.length - 1].src}
-                imageAlt={p.images[p.images.length - 1].alt}
+                image={p.images[0].src}
+                imageAlt={p.images[0].alt}
               />
             ))}
           </div>
