@@ -73,8 +73,8 @@ export default function Home() {
             <Link href="/thesis" className="group block">
               <div className="relative w-full aspect-[16/9] overflow-hidden bg-black/[0.03]">
                 <Image
-                  src="/images/thesis/13-final-display-render.jpg"
-                  alt="Myra: Inner Sanctuary, full render of the immersive walk-through installation"
+                  src="/images/thesis/02-interior-view.jpg"
+                  alt="Myra: Inner Sanctuary, interior view of the finished walk-through installation"
                   fill
                   sizes="(max-width: 768px) 100vw, 1024px"
                   className="object-cover transition-transform duration-500 group-hover:scale-[1.02]"
