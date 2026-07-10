@@ -21,7 +21,7 @@ export const projects: Project[] = [
     hook: "Three artists' worlds, combined into one original repeat.",
     projectType: "Studio Assignment",
     technique: "Design extraction, black & white repeat fabric design",
-    semester: "Semester 1",
+    semester: "Semester 5",
     description: [
       "Elements from three different artists' work were combined to create original designs. A dense research board fed a set of design-extraction studies, pulling motifs and marks out of the source imagery before resolving them into a family of black-and-white repeat fabric designs and their fabricated counterparts.",
     ],
@@ -31,6 +31,11 @@ export const projects: Project[] = [
       { src: "/images/work/artist-assignment/03-bw-designs-b.jpg", alt: "Second black and white repeat fabric design, mirrored motif" },
       { src: "/images/work/artist-assignment/04-coloured-fabrication.jpg", alt: "Coloured fabrication of the repeat design in blue and gold tones" },
       { src: "/images/work/artist-assignment/05-coloured-fabrication-b.jpg", alt: "Coloured fabrication of the repeat design in green and purple tones" },
+      { src: "/images/work/artist-assignment/06-design-extraction-board.jpg", alt: "Design Extraction board, ten line-drawing studies pulled from the three artists' source imagery" },
+      { src: "/images/work/artist-assignment/07-bw-designs-board.jpg", alt: "Black & White Designs board, repeat patterns developed from the extracted motifs" },
+      { src: "/images/work/artist-assignment/08-coloured-designs-board.jpg", alt: "Coloured Designs board, the source illustrations before fabrication" },
+      { src: "/images/work/artist-assignment/09-bw-fabrication-board.jpg", alt: "Black and White Fabrication board, the repeat designs realised as fabricated samples" },
+      { src: "/images/work/artist-assignment/10-coloured-fabrications-board.jpg", alt: "Coloured Fabrications board, the repeat designs realised in colour" },
     ],
   },
   {
@@ -39,7 +44,7 @@ export const projects: Project[] = [
     hook: "A campus waiting area, rebuilt in macramé and reclaimed jute.",
     projectType: "Studio Assignment",
     technique: "Macramé, charpai-style weaving, jute, bamboo framing",
-    semester: "Semester 2",
+    semester: "Semester 6",
     description: [
       "A functional space for the university, designed around a need identified on campus: a bus waiting area offering shade, comfort, and a moment to pause between classes.",
       "Macramé forms the backdrop for texture and calm, charpai-style weaving gives the bench structure and familiarity, and woven jute pillows soften the seat. A bamboo frame draped in burlap provides shade with a flowy, breathable feel — traditional craft brought into a functional, everyday setting.",
@@ -53,6 +58,9 @@ export const projects: Project[] = [
       { src: "/images/work/space-design/05-installed-detail-a.jpg", alt: "Detail of the macramé backdrop and woven bench with jute pillows" },
       { src: "/images/work/space-design/06-moodboard-materials.jpg", alt: "Moodboard of materials and reference imagery for the waiting area design" },
       { src: "/images/work/space-design/07-installed-detail-b.jpg", alt: "Detail of the installed macramé and burlap canopy from a different angle" },
+      { src: "/images/work/space-design/09-material-textile-moodboard.jpg", alt: "Material moodboard and fabric-drape reference imagery for the waiting area design" },
+      { src: "/images/work/space-design/10-material-textile-art-boards.jpg", alt: "Material Board, Textile Material Board, and Art Movement Board for the project" },
+      { src: "/images/work/space-design/11-location-inspiration-boards.jpg", alt: "Location photography, material inspiration, and final board display for the project" },
     ],
   },
   {
@@ -61,7 +69,7 @@ export const projects: Project[] = [
     hook: "Traditional ikat, hand-painted and handwoven into a modern pillow.",
     projectType: "Studio Assignment",
     technique: "Ikat weaving, hand-painting",
-    semester: "Semester 2",
+    semester: "Semester 6",
     description: [
       "Hand-painted and handwoven pillows combining the traditional ikat technique with a modern design sensibility — the blurred, resist-dyed ikat pattern rendered in a contemporary plum and cream palette.",
     ],
@@ -76,7 +84,7 @@ export const projects: Project[] = [
     hook: "A timeless check, hand-painted and hand-woven.",
     projectType: "Studio Assignment",
     technique: "Hand-painting, hand-weaving",
-    semester: "Semester 2",
+    semester: "Semester 6",
     description: [
       "Hand-painted and hand-woven with love and care, featuring a timeless checkered pattern in forest green, red, and cream.",
     ],
@@ -95,6 +103,7 @@ export const projects: Project[] = [
       "A set of handwoven textile samples crafted on an 8-frame loom, pairing traditional weaving technique with a modern colour and texture sensibility.",
     ],
     images: [
+      { src: "/images/work/weaving-samples/00-sample-black-cream-cover.jpg", alt: "Handwoven textile sample in black and cream, dotted repeat pattern" },
       { src: "/images/work/weaving-samples/01-sample-magenta-black.jpg", alt: "Handwoven textile sample in magenta and black" },
       { src: "/images/work/weaving-samples/02-sample-blue-gold.jpg", alt: "Handwoven striped textile samples in blue and gold" },
       { src: "/images/work/weaving-samples/03-sample-lavender-grey.jpg", alt: "Handwoven textile sample in lavender and grey" },
@@ -109,6 +118,8 @@ export const projects: Project[] = [
       { src: "/images/work/weaving-samples/12-sample-navy-gold-plaid.jpg", alt: "Handwoven plaid textile sample in navy and gold" },
       { src: "/images/work/weaving-samples/13-sample-maroon-ikat.jpg", alt: "Handwoven ikat-style textile sample in maroon and gold" },
       { src: "/images/work/weaving-samples/14-sample-brown-olive-stripe.jpg", alt: "Handwoven striped textile sample in brown and olive" },
+      { src: "/images/work/weaving-samples/15-sample-teal.jpg", alt: "Handwoven textile sample in teal and cream" },
+      { src: "/images/work/weaving-samples/16-sample-pink-ombre.jpg", alt: "Handwoven textile sample in a pink ombre stripe" },
     ],
   },
   {
@@ -142,6 +153,11 @@ export const projects: Project[] = [
       { src: "/images/work/designing-nature-inspired/02-garment.jpg", alt: "Final garment in gold and pink brocade-look fabric with a stack of coloured fabric swatches" },
       { src: "/images/work/designing-nature-inspired/03-screen-printed-detail.jpg", alt: "Screen-printed floral repeat pattern on pink fabric, styled on a mannequin" },
       { src: "/images/work/designing-nature-inspired/05-coloured-felt.jpg", alt: "Coloured felt piece with hand embroidery in purple, red, and green" },
+      { src: "/images/work/designing-nature-inspired/06-motif-repeat-lines.jpg", alt: "Hand-drawn floral motif repeat, line-drawing study" },
+      { src: "/images/work/designing-nature-inspired/07-motif-repeat-tiled.jpg", alt: "Floral motif resolved into a tiled repeat pattern" },
+      { src: "/images/work/designing-nature-inspired/08-garment-on-hook.jpg", alt: "Screen-printed garment hanging on display, with fabric swatches below" },
+      { src: "/images/work/designing-nature-inspired/09-garment-flat.jpg", alt: "Screen-printed garment laid flat against the wall" },
+      { src: "/images/work/designing-nature-inspired/10-fabric-swatches-stack.jpg", alt: "Stack of coloured fabric swatches in the project's palette" },
     ],
   },
   {
@@ -196,6 +212,12 @@ export const projects: Project[] = [
       { src: "/images/work/memory-through-layers/02-collage-c.jpg", alt: "Childhood photo collage combining a swing, sea turtles, and family photographs" },
       { src: "/images/work/memory-through-layers/03-fragments-a.jpg", alt: "Fragments of Summer Past composition, a beach scene in blue-tinted layers" },
       { src: "/images/work/memory-through-layers/05-fabricated-layer-c.jpg", alt: "Fabricated fabric layer showing a palm tree silhouette in blue tones" },
+      { src: "/images/work/memory-through-layers/06-three-collages-board.jpg", alt: "Board of Three Collages — swing, parasail, and turtle compositions side by side" },
+      { src: "/images/work/memory-through-layers/07-monotone-layers-board.jpg", alt: "Monotone Layers board showing the collages translated into blue-tinted compositions" },
+      { src: "/images/work/memory-through-layers/08-fabricated-layers-board.jpg", alt: "Fabricated Layers board showing the finished fabric panels in sequence" },
+      { src: "/images/work/memory-through-layers/09-beach-collage-detail.jpg", alt: "Detail of the beach parasail collage in blue-tinted layers" },
+      { src: "/images/work/memory-through-layers/10-fabric-detail-figure.jpg", alt: "Detail of a fabricated fabric layer with a stitched figure" },
+      { src: "/images/work/memory-through-layers/11-fabric-detail-palm.jpg", alt: "Detail of a fabricated fabric layer with stitched palm fronds" },
     ],
   },
   {
@@ -204,7 +226,7 @@ export const projects: Project[] = [
     hook: "Cutouts from a stack of old magazines, unified into one visual.",
     projectType: "Studio Assignment",
     technique: "Paper collage",
-    semester: "Semester 1",
+    semester: "Semester 5",
     description: [
       "This assignment combines various magazine cutouts to form one unified visual — an ornate interior scene populated with birds, and an underwater world layered with coral and sea life.",
     ],
@@ -226,6 +248,7 @@ export const projects: Project[] = [
     images: [
       { src: "/images/work/moodboards/01-retro-futuristic.jpg", alt: "Retro futuristic inspired moodboard with metallic fashion and sci-fi imagery" },
       { src: "/images/work/moodboards/02-sands-of-bohemian.jpg", alt: "Sands of Bohemian moodboard in warm earth tones with woven textures" },
+      { src: "/images/work/moodboards/03-parisian-ballet.jpg", alt: "Parisian ballet-inspired moodboard in soft pink and green tones" },
     ],
   },
   {
@@ -256,9 +279,17 @@ export const projects: Project[] = [
     ],
     images: [
       { src: "/images/work/deconstructing-reconstructing/02-denim-front.jpg", alt: "Reconstructed denim corset-style bodice and skirt on a dress form, front view" },
-      { src: "/images/work/deconstructing-reconstructing/01-moodboard-garment-board.jpg", alt: "Moodboard referencing Giambattista Valli's Spring 2025 collection alongside runway garment references" },
       { src: "/images/work/deconstructing-reconstructing/03-denim-side.jpg", alt: "Reconstructed denim garment on a dress form, side view" },
       { src: "/images/work/deconstructing-reconstructing/04-upcycled-tee.jpg", alt: "Upcycled sportswear tee reconstructed into a color-blocked garment on a mannequin" },
+      { src: "/images/work/deconstructing-reconstructing/05-denim-corset-front.jpg", alt: "Reconstructed denim corset-style bodice and skirt, alternate front view" },
+      { src: "/images/work/deconstructing-reconstructing/06-denim-skirt-detail.jpg", alt: "Detail of the reconstructed denim skirt with pocket and buckle hardware" },
+      { src: "/images/work/deconstructing-reconstructing/07-denim-corset-detail.jpg", alt: "Detail of the ruffled denim corset bodice and collar" },
+      { src: "/images/work/deconstructing-reconstructing/08-upcycled-puma-top.jpg", alt: "Upcycled Puma sportswear reconstructed into a cropped top" },
+      { src: "/images/work/deconstructing-reconstructing/09-upcycled-nike-hoodie.jpg", alt: "Upcycled Nike sportswear reconstructed into an asymmetric top" },
+      { src: "/images/work/deconstructing-reconstructing/10-upcycled-panther-set.jpg", alt: "Upcycled panther-branded sportswear reconstructed into a halter top and skirt set" },
+      { src: "/images/work/deconstructing-reconstructing/11-upcycled-colourblock-tee.jpg", alt: "Upcycled colour-blocked tee with contrast pocket detail" },
+      { src: "/images/work/deconstructing-reconstructing/12-upcycled-nike-top.jpg", alt: "Upcycled Nike sportswear reconstructed into a fitted top" },
+      { src: "/images/work/deconstructing-reconstructing/13-exhibition-display.jpg", alt: "Exhibition display of the reconstructed garments alongside moodboards and technical drawings" },
     ],
   },
   {
@@ -267,7 +298,7 @@ export const projects: Project[] = [
     hook: "The ocean's gentle waves, crafted into a flowing gown.",
     projectType: "Studio Assignment",
     technique: "Draping, garment construction",
-    semester: "Semester 6",
+    semester: "Semester 2",
     description: [
       "Seashore Serenade: a dress inspired by the ocean's gentle waves and soothing melodies, crafted with delicate care. Built from a moodboard of ocean and mermaid imagery, the finished gown drapes navy and sage-green fabric with shell and rosette details at the bodice.",
     ],

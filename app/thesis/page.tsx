@@ -37,20 +37,18 @@ export const metadata: Metadata = {
 };
 
 const galleryImages = [
-  { src: "/images/thesis/01-cover-shell-texture.jpg", alt: "Close detail of the laser-cut, iridescent oyster-shell exterior" },
-  { src: "/images/thesis/02-secondary-research-oysters.jpg", alt: "Secondary research board of macro oyster and pearl photography" },
-  { src: "/images/thesis/03-primary-photography.jpg", alt: "Primary photography board of soft domestic interiors — beds, curtains, mirrors" },
-  { src: "/images/thesis/04-secondary-photography-oysters.jpg", alt: "Secondary photography board of oyster shells and pearls" },
-  { src: "/images/thesis/05-ink-drawings-a.jpg", alt: "Ink and watercolour studies of oyster and shell forms" },
-  { src: "/images/thesis/06-ink-drawings-b.jpg", alt: "Further ink and watercolour studies of oyster and pearl forms" },
-  { src: "/images/thesis/07-prototype-render.jpg", alt: "3D digital prototype render of the installation's exterior shell form" },
-  { src: "/images/thesis/09-execution-studio.jpg", alt: "Steel framework and iridescent shell forms during execution in the studio" },
-  { src: "/images/thesis/11-boards-display.jpg", alt: "Research and fabrication boards displayed on the studio wall" },
-  { src: "/images/thesis/12-installing-process.jpg", alt: "Hands installing laser-cut iridescent shell forms onto the structure" },
-  { src: "/images/thesis/13-final-display-render.jpg", alt: "Full render of the final walk-through installation" },
-  { src: "/images/thesis/14-final-wide.jpg", alt: "Wide photo of the finished installation, exterior and interior visible" },
-  { src: "/images/thesis/15-final-detail-a.jpg", alt: "Close detail of the finished installation's interior and sensory floor" },
-  { src: "/images/thesis/16-final-detail-b.jpg", alt: "Close detail of the layered iridescent shell exterior" },
+  { src: "/images/thesis/13-research-boards-display-wide.jpg", alt: "Wide view of the full research and fabrication boards display, alongside the prototype model" },
+  { src: "/images/thesis/10-research-boards-display-a.jpg", alt: "Research boards display wall, oyster and shell studies alongside embroidery samples" },
+  { src: "/images/thesis/01-self-talk-text-panel.jpg", alt: "Laser-cut and embroidered text panel of a personal self-dialogue poem on an iridescent surface" },
+  { src: "/images/thesis/03-oyster-shell-text-detail.jpg", alt: "Cluster of oyster shells printed with fragments of inner-dialogue text" },
+  { src: "/images/thesis/04-journal-text-detail.jpg", alt: "Handwritten cursive journal text in pink ink on an iridescent surface" },
+  { src: "/images/thesis/12-shell-scale-texture-detail.jpg", alt: "Close detail of the laser-cut, iridescent oyster-shell exterior" },
+  { src: "/images/thesis/05-smocked-interior-detail.jpg", alt: "Detail of the smocked interior textile in soft pink and grey tones" },
+  { src: "/images/thesis/06-exterior-interior-transition-a.jpg", alt: "Close detail where the exterior shell scales meet the interior mirrored mosaic" },
+  { src: "/images/thesis/11-exterior-interior-transition-b.jpg", alt: "Alternate view of the exterior-to-interior transition, shell scales into draped fabric" },
+  { src: "/images/thesis/08-draped-fabric-detail.jpg", alt: "Detail of the draped iridescent interior fabric" },
+  { src: "/images/thesis/09-draped-fabric-mosaic-detail.jpg", alt: "Detail of draped fabric against the mirrored mosaic wall" },
+  { src: "/images/thesis/07-sensory-floor-detail.jpg", alt: "Close detail of the sensory floor, pearls and crushed glass among oyster shells" },
 ];
 
 export default function ThesisPage() {
@@ -105,7 +103,7 @@ export default function ThesisPage() {
 
           <div className="relative w-full aspect-[3/4] overflow-hidden bg-black/[0.03]">
             <Image
-              src="/images/thesis/artist-statement-interior.jpg"
+              src="/images/thesis/02-interior-view.jpg"
               alt="Interior view of the finished installation, looking up into the iridescent oyster-shell canopy with a lit sensory floor below"
               fill
               sizes="(max-width: 768px) 100vw, 60vw"
@@ -117,41 +115,52 @@ export default function ThesisPage() {
 
       <Section title="Concept Development">
         <p>
-          The work began as a personal reflection on childhood loneliness and the imaginary
-          worlds and games used as an emotional escape, developed through research into
-          imagination as a coping mechanism, self-dialogue, and psychology — narrative identity
-          and creativity. Mind-mapping traced this into the symbolism of the oyster and pearl:
-          emotional pressure covered by protective layers, eventually forming something
-          beautiful, mirrored by a dual-self concept — the oyster shell as exterior, loneliness,
-          and healing; the inner self, Myra, as comfort and pearl.
+          The concept evolved through an exploration of imagination as a personal safe haven.
+          Beginning with research into childhood fantasy worlds, emotional refuge, and the
+          transformative nature of imagination, the project developed into a large-scale
+          immersive installation. The oyster became a central metaphor, symbolizing the ability
+          to transform discomfort and vulnerability into growth and beauty. Through material
+          experimentation, sketching, prototyping, and spatial development, the concept gradually
+          took shape as a walk-in environment that invites viewers to experience a journey from a
+          protective exterior into a soft and dreamlike interior.
         </p>
       </Section>
 
       <Section title="Research">
         <p>
-          Artist references included Louise Bourgeois, Frida Kahlo, Do Ho Suh, and Yayoi Kusama —
-          identity, repetition, and personal space. Primary research combined personal
-          photography of soft domestic interiors (beds, curtains, mirrors, condensation on glass)
-          with primary and secondary research boards built around oyster and shell imagery, plus
-          hand-drawn studies of oyster and shell forms in ink and watercolour.
+          What began as a personal reflection gradually developed into a broader investigation
+          into imagination, self-dialogue, and the ways people create emotional comfort during
+          difficult moments. While exploring my own experience of speaking to a calmer version of
+          myself called Myra, I became interested in understanding why the mind instinctively
+          creates inner worlds when reality feels overwhelming. This curiosity led me towards
+          research in psychology, psychoanalysis, narrative identity, and creativity. The
+          articles explored throughout this research offered different perspectives on
+          imagination not as simple fantasy, but as a meaningful psychological tool that helps
+          people process emotions, construct identity, and find comfort in times of distress.
         </p>
       </Section>
 
       <Section title="Materials & Fabrication">
         <p>
-          Off-loom techniques, laser-cut oyster-shell forms on iridescent leather for the
-          exterior &ldquo;shell,&rdquo; and draped and smocked textiles for the interior, with
-          pearls, shells, and crushed glass worked into a sensory floor. A steel framework was
-          built and covered with the layered laser-cut leather shell forms; the interior combines
-          draped smocked textiles, laser-cut panels, embedded lighting, sound, and the sensory
-          floor.
+          The installation is built on a rod iron structure, forming the framework of the piece.
+          The exterior is covered with rexine fabric and layered with laser-cut oyster shell
+          forms, inspired by the oyster&rsquo;s transformation of an irritant into a pearl. The
+          interior is created using moonlight chiffon manipulated through smocking techniques to
+          produce soft, immersive textures, alongside custom laser-cut leather and rexine
+          fabrications developed as part of the project. The floor consists of a combination of
+          pearl oyster shells and crystals, adding a reflective quality that enhances the
+          dreamlike atmosphere of the space. Together, these materials create a contrast between
+          the protective outer shell and the soft interior, reflecting the idea of imagination as
+          a place of comfort, refuge, and transformation.
         </p>
       </Section>
 
       <Section title="Colour Palette">
         <p>
-          Soft pearlescent neutrals — white, cream, taupe, blush pink, and iridescent
-          blue-green — drawn directly from oyster shell and pearl reference photography.
+          The colour palette is inspired by the natural beauty of pearls and oyster shells,
+          featuring shades of white and iridescent tones. These colours create a soft, luminous
+          atmosphere that enhances the dreamlike quality of the installation and reinforces
+          themes of imagination and refuge.
         </p>
       </Section>
 
