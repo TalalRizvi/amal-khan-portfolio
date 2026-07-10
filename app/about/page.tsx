@@ -83,18 +83,18 @@ export default function AboutPage() {
 
             <h2 className="text-xs uppercase tracking-wider text-accent mb-6">Press</h2>
             <div className="mb-8">
+              <p className="text-[15px] text-foreground/85 mb-3">
+                The Express Tribune, on Myra: Inner Sanctuary and BNU&rsquo;s emerging generation of
+                visual artists reclaiming safe havens from societal pressures.
+              </p>
               <a
                 href="https://tribune.com.pk/story/2617386/material-truth-and-civic-canvas-new-sovereign-of-contemporary-art"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="font-serif text-lg hover:text-accent transition-colors"
+                className="inline-block text-xs uppercase tracking-wider border border-foreground px-6 py-3 hover:bg-foreground hover:text-background transition-colors"
               >
-                Material truth and civic canvas: new sovereign of contemporary art
+                Read the article
               </a>
-              <p className="text-[15px] text-foreground/85 mt-1">
-                The Express Tribune, on Myra: Inner Sanctuary and BNU&rsquo;s emerging generation of
-                visual artists reclaiming safe havens from societal pressures.
-              </p>
             </div>
 
             <h2 className="text-xs uppercase tracking-wider text-accent mb-6">Workshops</h2>
