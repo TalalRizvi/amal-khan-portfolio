@@ -37,6 +37,7 @@ export const metadata: Metadata = {
 };
 
 const galleryImages = [
+  { src: "/images/thesis/14-full-installation-overview.jpg", alt: "Full wide view of the finished installation from the front, showing the exterior shell opening into the lit interior" },
   { src: "/images/thesis/13-research-boards-display-wide.jpg", alt: "Wide view of the full research and fabrication boards display, alongside the prototype model" },
   { src: "/images/thesis/10-research-boards-display-a.jpg", alt: "Research boards display wall, oyster and shell studies alongside embroidery samples" },
   { src: "/images/thesis/01-self-talk-text-panel.jpg", alt: "Laser-cut and embroidered text panel of a personal self-dialogue poem on an iridescent surface" },
