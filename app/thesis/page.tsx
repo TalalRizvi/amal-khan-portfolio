@@ -44,9 +44,8 @@ const galleryImages = [
   { src: "/images/thesis/04-journal-text-detail.jpg", alt: "Handwritten cursive journal text in pink ink on an iridescent surface" },
   { src: "/images/thesis/12-shell-scale-texture-detail.jpg", alt: "Close detail of the laser-cut, iridescent oyster-shell exterior" },
   { src: "/images/thesis/05-smocked-interior-detail.jpg", alt: "Detail of the smocked interior textile in soft pink and grey tones" },
-  { src: "/images/thesis/06-exterior-interior-transition-wide.jpg", alt: "Wide view of the exterior shell wall opening into the mirrored mosaic interior, with track lighting overhead" },
+  { src: "/images/thesis/06-interior-fabric-mosaic-floor.jpg", alt: "Draped iridescent fabric meeting the mirrored mosaic wall above the lit sensory floor" },
   { src: "/images/thesis/11-exterior-interior-transition-b.jpg", alt: "Alternate view of the exterior-to-interior transition, shell scales into draped fabric" },
-  { src: "/images/thesis/08-interior-corner-floor-detail.jpg", alt: "Interior corner detail with draped fabric, mirrored mosaic, and the lit sensory floor below" },
   { src: "/images/thesis/09-draped-fabric-mosaic-detail.jpg", alt: "Detail of draped fabric against the mirrored mosaic wall" },
   { src: "/images/thesis/07-sensory-floor-detail.jpg", alt: "Close detail of the sensory floor, pearls and crushed glass among oyster shells" },
 ];
